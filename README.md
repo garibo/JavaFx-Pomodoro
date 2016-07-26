@@ -3,8 +3,8 @@
 
 Aplicacion POMODORO desarrollada en JavaFX
 
-![image](screenshots/pomodoro1.png)
+![image](screenshots/pomodoro1.PNG)
 
-![image](screenshots/pomodoro2.png)
+![image](screenshots/pomodoro2.PNG)
 
-![image](screenshots/pomodoro3.png)
+![image](screenshots/pomodoro3.PNG)
